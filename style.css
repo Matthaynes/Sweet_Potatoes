@@ -1,0 +1,9 @@
+.row {
+  min-height: 900px;
+}
+.container-fluid {
+  overflow: hidden;
+}
+#short {
+  min-height: 50px;
+}
